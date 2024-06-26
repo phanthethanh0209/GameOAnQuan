@@ -2,7 +2,7 @@
 #### Công nghệ sử dụng:
 - Python Pygame, PyQt
 
-#### Thực hiện: Nhóm 4 thành viên
+#### Thực hiện: Nhóm 3 thành viên
 
 #### Thuật toán sử dụng:
 - Giải thuật Minimax
