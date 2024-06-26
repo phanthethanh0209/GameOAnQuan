@@ -2,6 +2,8 @@
 #### Công nghệ sử dụng:
 - Python Pygame, PyQt
 
+#### Thực hiện: Nhóm 4 thành viên
+
 #### Thuật toán sử dụng:
 - Giải thuật Minimax
 - Giải thuật cắt tỉa Alpha – Beta
