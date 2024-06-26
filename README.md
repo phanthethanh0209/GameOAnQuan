@@ -17,6 +17,7 @@ a.	Giao diện trò chơi
 + Khi chọn vào nút tùy chọn giúp chúng ta điều chỉnh âm thanh 
 + Thoát khỏi trò chơi nếu không muốn tiếp tục 
 -	Khi bấm vào chơi thì hiện ra bàn chơi có 10 ô quân và 2 ô quan, 2 ô tính điểm giữa hai người chơi
+
 b.	Luật chơi
 - Khi chơi ta có 10 ô quân mỗi ô có 5 sỏi, 2 ô quan mỗi ô 2 sỏi 
 - Khi tới lượt mình đi mình chọn một trong năm ô phía mình để rải, ta có thể di chuyển theo hướng bên phải, hoặc bên trái để di chuyển. 
